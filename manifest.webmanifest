@@ -1,0 +1,12 @@
+{
+  "name": "MOVVA — Corre. Evolua. Conquiste.",
+  "short_name": "MOVVA",
+  "description": "Acompanhe suas corridas, caminhadas e pedaladas.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#061b31",
+  "theme_color": "#061b31",
+  "icons": [{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
